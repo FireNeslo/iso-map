@@ -1,0 +1,13 @@
+{
+  "name": "iso-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx snowpack dev",
+    "build": "npx snowpack build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
